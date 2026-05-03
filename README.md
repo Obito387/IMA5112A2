@@ -5,8 +5,8 @@ Test your ability to tell the difference between genuine life hacks and viral ur
 
 # Author
 ## > Thabelo Thanyani
-## Student Number: ST10515831
-
+## Oratile Moeng 
+## Mashudu Managa
 # Status
 [![Android CI](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml/badge.svg)](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml)
 
