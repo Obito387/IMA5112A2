@@ -3,6 +3,9 @@
 A native Android flashcard quiz app built with **Kotlin** in Android Studio.  
 Test your ability to tell the difference between genuine life hacks and viral urban myths!
 
+# Status
+[![Android CI](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml/badge.svg)](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml)
+
 ## App Overview
 The internet is full of tips, tricks, and shortcuts — but not all of them are real. This app presents statements about everyday life hacks and challenges users to decide: **Hack (True)** or **Myth (False)?**
 
