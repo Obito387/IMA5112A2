@@ -4,7 +4,8 @@ A native Android flashcard quiz app built with **Kotlin** in Android Studio.
 Test your ability to tell the difference between genuine life hacks and viral urban myths!
 
 # Author
-# > Thabelo Thanyani
+## > Thabelo Thanyani
+## Student Number: ST10515831
 
 # Status
 [![Android CI](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml/badge.svg)](https://github.com/Obito387/IMA5112A2/actions/workflows/android.yml)
