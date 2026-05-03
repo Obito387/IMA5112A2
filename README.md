@@ -59,3 +59,6 @@ Review Screen (all answers)
 2. Open in Android Studio
 3. Connect an emulator or physical device
 4. Press **Run ▶** to build and install the app
+
+# YouTube link
+https://youtu.be/XJ1lSo_OjGg?si=xg0WI9VRAaRDVubB
